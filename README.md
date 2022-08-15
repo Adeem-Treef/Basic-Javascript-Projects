@@ -1,1 +1,1 @@
-A javascript calculator
+Basic javascript projects. 

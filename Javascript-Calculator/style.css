@@ -1,5 +1,5 @@
 body {
-    width: 500px;
+    width: 504px;
     margin: 4% auto;
     font-family: 'Source Sans Pro', sans-serif;
     letter-spacing: 5px;
@@ -96,6 +96,7 @@ body {
     border: 1px solid #3079ED;
     border-radius: 1px;
     width: 17%;
+    height: 22.5px;
     text-align: center;
     padding: 127px 10px;
     margin: 10px 6px 10px 0;
